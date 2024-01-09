@@ -1,5 +1,5 @@
 
-# Rusty Kaspa Core Wallet
+# Rusty Kaspa Core Wallets
 
 ## Prerequisites
 
