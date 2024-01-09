@@ -1,4 +1,4 @@
-# tests
+# test
 cargo nextest run --release --workspace -p kaspa-testing-integration --lib
 if [ $? -ne 0 ]; then
     echo "Failed to run integration tests"
